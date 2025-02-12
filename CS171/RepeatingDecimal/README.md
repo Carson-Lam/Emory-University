@@ -1,4 +1,4 @@
-# Rational Values
+# Repeating Decimals
 
 ## Problem Description
 Rational values (i.e., "fractions") are quotients of integers. Given fractional user input, convert the fraction to decimal form while accounting for repeating decimals. When a rational value has an infinite number of (non-zero) decimal places, some subsequence of the digits that result must ultimately start repeating. Identify the longest pattern of decimals that repeat and output it indicated by an overline `‾`. 
