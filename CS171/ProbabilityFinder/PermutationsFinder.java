@@ -1,4 +1,3 @@
-package ProbabilityFinder;
 
 //SUBMITTED BY: Carson Lam
 //HELPED BY: Noah Huff

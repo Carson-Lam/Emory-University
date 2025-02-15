@@ -1,4 +1,3 @@
-package ProbabilityFinder;
 import java.util.List;
 
 public interface StateAllowingBacktracking<Choice> {
