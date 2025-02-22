@@ -1,6 +1,6 @@
 //SUBMITTED BY: Carson Lam
 //HELPED BY: Noah Huff
-package twoways;
+package TailRecursionToIteration;
 
 public class TailRecursionToIteration {
 
